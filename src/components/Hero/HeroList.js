@@ -1,0 +1,25 @@
+import { useMemo } from "react";
+import { getHeroesByPublisher } from "../../selectors/getHeroesByPublisher"
+import { HeroCard } from "./HeroCard"
+
+
+export const HeroList = ({publisher}) => {
+
+    const heroesdelista = useMemo(() => getHeroesByPublisher(publisher),[publisher]);
+
+    return (
+        <div className="row rows-cols-1 row-cols-md-3 g-3 animate__animated animate__fadeIn">
+                {
+                    heroesdelista.map(h => (
+                        <HeroCard 
+                            key={h.id}
+                            {...h}
+                        />
+                    ))
+                }
+        </div>
+    )
+}
+
+// {...h} se usa esto para no tener que poner 
+// superheroe={h.superheroe}
