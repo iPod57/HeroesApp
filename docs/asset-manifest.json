@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/heroesApp/static/css/main.55bcc97c.css",
+    "main.js": "/heroesApp/static/js/main.2cf50194.js",
+    "static/media/dc-wonder.jpg": "/heroesApp/static/media/dc-wonder.970ba2d62a4636ff6afb.jpg",
+    "static/media/dc-flash.jpg": "/heroesApp/static/media/dc-flash.b3922f25f3765970d74c.jpg",
+    "static/media/dc-martian.jpg": "/heroesApp/static/media/dc-martian.78565f7df6238ef8a601.jpg",
+    "static/media/marvel-hulk.jpg": "/heroesApp/static/media/marvel-hulk.d1af5fe55736a7ee8eca.jpg",
+    "static/media/dc-blue.jpg": "/heroesApp/static/media/dc-blue.cc8169a35fe1bb97efac.jpg",
+    "static/media/dc-black.jpg": "/heroesApp/static/media/dc-black.3747c663c08cb4b8112e.jpg",
+    "static/media/dc-superman.jpg": "/heroesApp/static/media/dc-superman.e93914746a375b26066d.jpg",
+    "static/media/marvel-silver.jpg": "/heroesApp/static/media/marvel-silver.1d43a08b4ccdd3cbfe2e.jpg",
+    "static/media/marvel-daredevil.jpg": "/heroesApp/static/media/marvel-daredevil.2f4f1a5789e7d461332e.jpg",
+    "static/media/marvel-spider.jpg": "/heroesApp/static/media/marvel-spider.054016b4e78aac5ffd5d.jpg",
+    "static/media/dc-green.jpg": "/heroesApp/static/media/dc-green.01c54ee1ddf7648f75fa.jpg",
+    "static/media/marvel-iron.jpg": "/heroesApp/static/media/marvel-iron.b394df115dd4fab03f07.jpg",
+    "static/media/marvel-thor.jpg": "/heroesApp/static/media/marvel-thor.c63e651c5f54edf6fc00.jpg",
+    "static/media/marvel-captain.jpg": "/heroesApp/static/media/marvel-captain.d2c7774de10a0339515c.jpg",
+    "static/media/dc-batman.jpg": "/heroesApp/static/media/dc-batman.ab9eadc3f28199d6be0b.jpg",
+    "static/media/dc-arrow.jpg": "/heroesApp/static/media/dc-arrow.15b27bc268297c6ee1c5.jpg",
+    "static/media/marvel-wolverine.jpg": "/heroesApp/static/media/marvel-wolverine.ee676488b2f3cb91cb12.jpg",
+    "static/media/marvel-cyclops.jpg": "/heroesApp/static/media/marvel-cyclops.f144240854b9dec1b9af.jpg",
+    "static/media/marvel-hawkeye.jpg": "/heroesApp/static/media/marvel-hawkeye.1f78e874c315b926c463.jpg",
+    "static/media/dc-robin.jpg": "/heroesApp/static/media/dc-robin.ea4afe99ecbc5480b0e3.jpg",
+    "index.html": "/heroesApp/index.html",
+    "main.55bcc97c.css.map": "/heroesApp/static/css/main.55bcc97c.css.map",
+    "main.2cf50194.js.map": "/heroesApp/static/js/main.2cf50194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55bcc97c.css",
+    "static/js/main.2cf50194.js"
+  ]
+}
